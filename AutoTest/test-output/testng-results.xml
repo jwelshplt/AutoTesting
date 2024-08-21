@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-22T00:00:13 BST" name="Default suite" finished-at="2024-08-22T00:01:10 BST" duration-ms="56833">
+    <groups>
+    </groups>
+    <test started-at="2024-08-22T00:00:13 BST" name="Default test" finished-at="2024-08-22T00:01:10 BST" duration-ms="56833">
+      <class name="AutoTestPLT.TestComponents.PLTAutoTest2">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:AutoTestPLT.TestComponents.PLTAutoTest2@121314f7]" started-at="2024-08-22T00:00:10 BST" name="invokeBrowser" finished-at="2024-08-22T00:00:13 BST" duration-ms="2846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="oneTrust()[pri:1, instance:AutoTestPLT.TestComponents.PLTAutoTest2@121314f7]" started-at="2024-08-22T00:00:13 BST" name="oneTrust" finished-at="2024-08-22T00:00:15 BST" duration-ms="2127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneTrust -->
+        <test-method signature="navBar()[pri:2, instance:AutoTestPLT.TestComponents.PLTAutoTest2@121314f7]" started-at="2024-08-22T00:00:15 BST" name="navBar" finished-at="2024-08-22T00:00:20 BST" duration-ms="4915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navBar -->
+        <test-method signature="PLP()[pri:3, instance:AutoTestPLT.TestComponents.PLTAutoTest2@121314f7]" started-at="2024-08-22T00:00:20 BST" name="PLP" finished-at="2024-08-22T00:00:25 BST" duration-ms="4610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PLP -->
+        <test-method signature="PDP()[pri:4, instance:AutoTestPLT.TestComponents.PLTAutoTest2@121314f7]" started-at="2024-08-22T00:00:25 BST" name="PDP" finished-at="2024-08-22T00:01:10 BST" duration-ms="45155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PDP -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:AutoTestPLT.TestComponents.PLTAutoTest2@121314f7]" started-at="2024-08-22T00:01:10 BST" name="closeWindow" finished-at="2024-08-22T00:01:10 BST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+      </class> <!-- AutoTestPLT.TestComponents.PLTAutoTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
