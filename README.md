@@ -1,5 +1,7 @@
 # AutoTesting - issues 
 
+PltAutoTest2 is the main tesr file, basetest will run methods before and after suite. pltautotest is my code before spliting into classes
+
 1. couldnt get a wait to work with the onetrust pop up so used thread.sleep (whoops)
 2. the nav bar sometimes selected a page that doesnt have products such as 'the edit' - i understand a if statement or something is needed here to repeat the random nav click but struggled to get it to work after spliting into class files
 3. likewise when selecting a random size, if the size if not avaliable or the product has one size - the test needs to repeat the nav click and pick a new item - again struggled to get the if statement to work after spliting into class files
